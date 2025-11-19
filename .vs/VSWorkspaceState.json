@@ -1,0 +1,18 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\bin",
+    "\\external",
+    "\\external\\glad",
+    "\\external\\glad\\include",
+    "\\external\\glad\\include\\glad",
+    "\\external\\glfw",
+    "\\external\\glfw\\include",
+    "\\external\\glfw\\include\\GLFW",
+    "\\external\\glfw\\lib-mingw-w64",
+    "\\external\\glfw\\lib-vc2022",
+    "\\external\\linmath"
+  ],
+  "SelectedNode": "\\src\\main.c",
+  "PreviewInSolutionExplorer": false
+}

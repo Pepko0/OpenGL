@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projekty\\OpenGL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projekty\\OpenGL\\src\\main.c||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main.c||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projekty\\OpenGL\\external\\linmath\\linmath.h||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:external\\linmath\\linmath.h||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projekty\\OpenGL\\external\\glfw\\include\\GLFW\\glfw3.h||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:external\\glfw\\include\\GLFW\\glfw3.h||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projekty\\OpenGL\\external\\glad\\include\\glad\\gl.h||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:external\\glad\\include\\glad\\gl.h||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projekty\\OpenGL\\external\\glad\\src\\glad.c||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:external\\glad\\src\\glad.c||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projekty\\OpenGL\\bin\\OpenGL.exe||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bin\\OpenGL.exe||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projekty\\OpenGL\\bin\\glfw3.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bin\\glfw3.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "linmath.h",
+              "DocumentMoniker": "D:\\Projekty\\OpenGL\\external\\linmath\\linmath.h",
+              "RelativeDocumentMoniker": "external\\linmath\\linmath.h",
+              "ToolTip": "D:\\Projekty\\OpenGL\\external\\linmath\\linmath.h",
+              "RelativeToolTip": "external\\linmath\\linmath.h",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAYwKgAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-12T19:10:36.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "glfw3.h",
+              "DocumentMoniker": "D:\\Projekty\\OpenGL\\external\\glfw\\include\\GLFW\\glfw3.h",
+              "RelativeDocumentMoniker": "external\\glfw\\include\\GLFW\\glfw3.h",
+              "ToolTip": "D:\\Projekty\\OpenGL\\external\\glfw\\include\\GLFW\\glfw3.h",
+              "RelativeToolTip": "external\\glfw\\include\\GLFW\\glfw3.h",
+              "ViewState": "AgIAAJEIAAAAAAAAAAAYwKYIAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-12T19:09:43.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "gl.h",
+              "DocumentMoniker": "D:\\Projekty\\OpenGL\\external\\glad\\include\\glad\\gl.h",
+              "RelativeDocumentMoniker": "external\\glad\\include\\glad\\gl.h",
+              "ToolTip": "D:\\Projekty\\OpenGL\\external\\glad\\include\\glad\\gl.h",
+              "RelativeToolTip": "external\\glad\\include\\glad\\gl.h",
+              "ViewState": "AgIAAGUEAAAAAAAAAAAYwHcEAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-12T18:59:35.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "D:\\Projekty\\OpenGL\\src\\main.c",
+              "RelativeDocumentMoniker": "src\\main.c",
+              "ToolTip": "D:\\Projekty\\OpenGL\\src\\main.c",
+              "RelativeToolTip": "src\\main.c",
+              "ViewState": "AgIAAL0AAAAAAAAAAAAAAO8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-12T17:06:20.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "glad.c",
+              "DocumentMoniker": "D:\\Projekty\\OpenGL\\external\\glad\\src\\glad.c",
+              "RelativeDocumentMoniker": "external\\glad\\src\\glad.c",
+              "ToolTip": "D:\\Projekty\\OpenGL\\external\\glad\\src\\glad.c",
+              "RelativeToolTip": "external\\glad\\src\\glad.c",
+              "ViewState": "AgIAALEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-12T17:05:05.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OpenGL.exe",
+              "DocumentMoniker": "D:\\Projekty\\OpenGL\\bin\\OpenGL.exe",
+              "RelativeDocumentMoniker": "bin\\OpenGL.exe",
+              "ToolTip": "D:\\Projekty\\OpenGL\\bin\\OpenGL.exe",
+              "RelativeToolTip": "bin\\OpenGL.exe",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000165|",
+              "WhenOpened": "2025-11-12T17:04:56.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "glfw3.dll",
+              "DocumentMoniker": "D:\\Projekty\\OpenGL\\bin\\glfw3.dll",
+              "RelativeDocumentMoniker": "bin\\glfw3.dll",
+              "ToolTip": "D:\\Projekty\\OpenGL\\bin\\glfw3.dll",
+              "RelativeToolTip": "bin\\glfw3.dll",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
+              "WhenOpened": "2025-11-12T17:04:54.488Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
